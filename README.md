@@ -39,6 +39,10 @@ Fuzz everything! Now let's fuzz chip!
 
 [Ibex RISC-V Core](https://github.com/lowRISC/ibex) 
 
+[MorFuzz](https://github.com/sycuricon/MorFuzz)
+
+[Cascade](https://github.com/comsec-group/cascade-artifacts)
+
 <!--
 []() 
 -->
