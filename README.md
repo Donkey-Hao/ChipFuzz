@@ -53,3 +53,4 @@ Fuzz everything! Now let's fuzz chip!
 |-------|-------|
 | [Design Verification](https://uobdv.github.io/Design-Verification/) | COMS30026 |
 | [Secure Hardware Design](https://shd.mit.edu/2024/) | 6.5950/6.5951 (Previously [6.S983](csg.csail.mit.edu/6.S983/) and 6.888) |
+| [One Student One Chip](https://ysyx.oscc.cc/docs/en/) | UCAS |
