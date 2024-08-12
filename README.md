@@ -20,7 +20,7 @@ Fuzz everything! Now let's fuzz chip!
 | [Achieving Last-Mile Functional Coverage in Testing Chip Design Software Implementations](https://ieeexplore.ieee.org/document/10172806) |  2023 IEEE/ACM 45th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)  |
 | [Cascade: CPU Fuzzing via Intricate Program Generation](https://comsec.ethz.ch/research/hardware-design-security/cascade-cpu-fuzzing-via-intricate-program-generation/) | 33st USENIX Security Symposium(Usenix Security 24)   |
 | [RTLFuzzLab: Building A Modular Open-Source Hardware Fuzzing Framework](https://woset-workshop.github.io/PDFs/2021/a10.pdf) |  Workshop on Open-Source EDA Technology (WOSET), 2021.  |
-
+| [RISCVuzz: Discovering Architectural CPU Vulnerabilities via Differential Hardware Fuzzing](https://ghostwriteattack.com/) |  [Black Hat USA 24](https://www.blackhat.com/us-24/briefings/schedule/index.html#arbitrary-data-manipulation-and-leakage-with-cpu-zero-day-bugs-on-risc-v-38293)  |
 <!-- 
 | []() |    |
 | []() |    | -->
