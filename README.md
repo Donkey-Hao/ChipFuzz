@@ -21,6 +21,9 @@ Fuzz everything! Now let's fuzz chip!
 | [Cascade: CPU Fuzzing via Intricate Program Generation](https://comsec.ethz.ch/research/hardware-design-security/cascade-cpu-fuzzing-via-intricate-program-generation/) | 33st USENIX Security Symposium(Usenix Security 24)   |
 | [RTLFuzzLab: Building A Modular Open-Source Hardware Fuzzing Framework](https://woset-workshop.github.io/PDFs/2021/a10.pdf) |  Workshop on Open-Source EDA Technology (WOSET), 2021.  |
 | [RISCVuzz: Discovering Architectural CPU Vulnerabilities via Differential Hardware Fuzzing](https://ghostwriteattack.com/) |  [Black Hat USA 24](https://www.blackhat.com/us-24/briefings/schedule/index.html#arbitrary-data-manipulation-and-leakage-with-cpu-zero-day-bugs-on-risc-v-38293)  |
+| [SSFuzz:Generating syntactic and semantic seeds for RISC-V processors](https://dl.acm.org/doi/10.1145/3649476.3658712) |  GLSVLSI '24: Great Lakes Symposium on VLSI 2024  |
+| [PathFuzz: Broadening Fuzzing Horizons with Footprint Memory for CPUs](https://61dac.conference-program.com/presentation/?id=RESEARCH419&sess=sess136) |  Presentation – DAC 2024  |
+| [CFTCG: Test Case Generation for Simulink Model through Code Based Fuzzing](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/CFTCG_DAC24.pdf) |  Presentation – DAC 2024   |
 <!-- 
 | []() |    |
 | []() |    | -->
@@ -42,6 +45,9 @@ Fuzz everything! Now let's fuzz chip!
 [MorFuzz](https://github.com/sycuricon/MorFuzz)
 
 [Cascade](https://github.com/comsec-group/cascade-artifacts)
+
+[xfuzz of Xiangshan](https://github.com/OpenXiangShan/xfuzz) 
+
 
 <!--
 []() 
